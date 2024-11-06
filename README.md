@@ -1,5 +1,9 @@
 # 🛩 텐서플로우로 시작하는 딥러닝 기초
 
+## 출처
+- 네이버부스트코스 공개강의
+- https://github.com/deeplearningzerotoall/TensorFlow?tab=readme-ov-file#part-1-basic-machine-learning
+
 ## 학습 기간
 - 2024.11.06 ~
 

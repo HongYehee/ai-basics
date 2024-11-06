@@ -1,11 +1,14 @@
 # 🛩 텐서플로우로 시작하는 딥러닝 기초
 
 ## 출처
-- 네이버부스트코스 공개강의 https://www.boostcourse.org/ai212/joinLectures/25072
-- 깃허브 실습 코드 https://github.com/deeplearningzerotoall/TensorFlow
+- 네이버 부스트코스 공개 강의: https://www.boostcourse.org/ai212/joinLectures/25072
+- 깃허브 실습 코드: https://github.com/deeplearningzerotoall/TensorFlow
 
 ## 학습 기간
-- 2024.11.06 ~
+- Part 1: 2024.11.06 ~
+- Part 2: TBD
+- Part 3: TBD
+- Part 4: TBD
 
 ## 학습 목표
 - 수집된 임상 데이터를 활용한 모델 개발

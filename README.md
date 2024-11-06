@@ -1,10 +1,10 @@
 # 🛩 텐서플로우로 시작하는 딥러닝 기초
-
+---
 ## 학습 기간
 2024.11.06 ~
-
+---
 ## 목차
-### PART 1: Basic Machine Learning
+### PART 1️⃣ Basic Machine Learning
 ⬜ Lec 01: 기본적인 Machine Learning의 용어와 개념 설명
 
 ⬜ Lec 02: Simple Linear Regression
@@ -42,8 +42,8 @@
 ⬜ Lab 07-3-1: Application & Tips: Data & Learning
 
 ⬜ Lab 07-3-2: Application & Tips: 다양한 Dataset으로 실습
-
-### PART 2: Basic Deep Learning
+---
+### PART 2️⃣: Basic Deep Learning
 ⬜ Lec 08-1: 딥러닝의 기본 개념: 시작과 XOR 문제
 
 ⬜ Lec 08-2: 딥러닝의 기본 개념 2: Back-propagation 과 2006/2007 '딥'의 출현
@@ -63,8 +63,8 @@
 ⬜ Lab 10-3: Dropout
 
 ⬜ Lab 10-4: Batch Normalization
-
-### PART 3: Convolutional Neural Network
+---
+### PART 3️⃣: Convolutional Neural Network
 ⬜ Lec 11-1: ConvNet의 Conv 레이어 만들기
 
 ⬜ Lec 11-2: ConvNet Max pooling 과 Full Network
@@ -84,8 +84,8 @@
 ⬜ Lab-11-4: mnist cnn keras ensemble eager
 
 ⬜ Lab-11-5: mnist cnn best keras eager
-
-### PART 4: Recurrent Neural Network
+---
+### PART 4️⃣: Recurrent Neural Network
 ⬜ Lec 12: NN의 꽃 RNN 이야기
 
 ⬜ Lab 12-0: rnn basics
@@ -101,3 +101,4 @@
 ⬜ Lab 12-5: seq to seq (simple neural machine translation)
 
 ⬜ Lab 12-6: seq to seq with attention (simple neural machine translation, attention)
+---

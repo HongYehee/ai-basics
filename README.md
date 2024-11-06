@@ -10,7 +10,7 @@
 - Part 3: TBD
 - Part 4: TBD
 
-## 학습 목표
+## 목표
 - 수집된 임상 데이터를 활용한 모델 개발
 - Vocal Classifier 개발
 

@@ -9,7 +9,7 @@
 
 ## 목차
 ### PART 1️⃣ Basic Machine Learning  
-- [ ]Lec 01: 기본적인 Machine Learning의 용어와 개념 설명  
+- [ ] Lec 01: 기본적인 Machine Learning의 용어와 개념 설명  
 ⬜ Lec 02: Simple Linear Regression  
 ⬜ Lab 02: Simple Linear Regression를 TensorFlow로 구현하기  
 ⬜ Lec 03: Linear Regression and How to minimize cost  

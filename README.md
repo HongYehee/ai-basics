@@ -1,20 +1,20 @@
 # 🛩 텐서플로우로 시작하는 딥러닝 기초
 
-## 출처
+## 🔗 자료 출처
 - 네이버 부스트코스 공개 강의: https://www.boostcourse.org/ai212/joinLectures/25072
 - 깃허브 실습 코드: https://github.com/deeplearningzerotoall/TensorFlow
 
-## 학습 기간
+## 🏃🏻‍♀️ 학습 기간
 - Part 1: 2024.11.06 ~
 - Part 2: TBD
 - Part 3: TBD
 - Part 4: TBD
 
-## 목표
+## 🎯 목표
 - 수집된 임상 데이터를 활용한 모델 개발
 - Vocal Classifier 개발
 
-## 목차
+## 🗂️ 목차
 ### PART 1️⃣ Basic Machine Learning  
 - [ ] Lec 01: 기본적인 Machine Learning의 용어와 개념 설명  
 - [ ] Lec 02: Simple Linear Regression  
